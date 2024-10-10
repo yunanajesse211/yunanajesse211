@@ -31,9 +31,12 @@ I am continually improving my skills in deep learning architectures and explorin
 ## 💡 Interests
 - Data Science: Solving real-world problems through data-driven insights.
 - Deep Learning: Expanding my understanding of advanced neural networks.
-- Regression and Classification: Building models to predict outcomes and categorize data effectively.
+- Regression and Classification: Building models to effectively predict outcomes and categorize data.
 
-- 📫 How to Reach Me
-Feel free to connect with me here on GitHub or via LinkedIn at https://www.linkedin.com/in/yunana-usheujawa-jesse-b02a9622a/.
+## 📫 How to Reach Me
+- Via E-mail @ yunanajesse2@gmail.com
+- Phone Number +234-703-144-815-6, +234-703-469-344-1
+- Via [LinkedIn](https://www.linkedin.com/in/yunana-usheujawa-jesse-b02a9622a/).
+
 
 
