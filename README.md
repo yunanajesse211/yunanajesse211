@@ -33,6 +33,9 @@ I am continually improving my skills in deep learning architectures and explorin
 - Deep Learning: Expanding my understanding of advanced neural networks.
 - Regression and Classification: Building models to effectively predict outcomes and categorize data.
 
+## My Resume
+Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tbArKfSMFD/view?usp=sharing)
+
 ## 📫 How to Reach Me
 - Via E-mail @ yunanajesse2@gmail.com
 - Phone Number +234-703-144-815-6, +234-703-469-344-1
