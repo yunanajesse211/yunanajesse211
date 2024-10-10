@@ -38,5 +38,11 @@ I am continually improving my skills in deep learning architectures and explorin
 - Phone Number +234-703-144-815-6, +234-703-469-344-1
 - Via [LinkedIn](https://www.linkedin.com/in/yunana-usheujawa-jesse-b02a9622a/).
 
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!----[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunanajesse2)](https://github.com/anuraghazra/github-readme-stats)--->
+
 
 
