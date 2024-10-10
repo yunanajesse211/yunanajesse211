@@ -1,4 +1,4 @@
-## Hi i am Yunana Usheujawa Jesse 👋
+## 👋 Hi i am Yunana Usheujawa Jesse 
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong focus on building reliable machine learning models, applying deep neural networks (DNNs) for classification and regression tasks, and utilizing SQL for efficient database management. 
 
