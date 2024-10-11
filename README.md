@@ -46,7 +46,7 @@ Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tb
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse21&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) </br>
 
 [![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211)](https://github.com/anuraghazra/github-readme-stats)
 
