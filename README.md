@@ -47,12 +47,13 @@ Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tb
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![yunanajesse211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&theme=cobalt&show_icons=true&hide_border=false&layout=donut-vertical)
+
 </br>
+![yunanajesse211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-![yunanajesse211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunanajesse211&theme=cobalt&hide_border=false)
+![yunanajesse211's Stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211&theme=default&show_icons=true&hide_border=false&count_private=true)
 
-![yunanajesse211's Stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+![yunanajesse211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunanajesse211&theme=default&hide_border=false)
 
 
 
