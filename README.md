@@ -34,7 +34,7 @@ I am continually improving my skills in deep learning architectures and explorin
 - Regression and Classification: Building models to effectively predict outcomes and categorize data.
 
 ## My Resume
-Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tbArKfSMFD/view?usp=sharing)
+Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tbArKfSMFD/view?usp=drive_link)
 
 ## 📫 How to Reach Me
 - Via E-mail @ yunanajesse2@gmail.com
