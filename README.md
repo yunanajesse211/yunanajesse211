@@ -51,9 +51,9 @@ Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tb
 </br>
 
 
-![yunanajesse211's Stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211&theme=default&show_icons=true&hide_border=false&count_private=true)
+![yunanajesse211's Stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-![yunanajesse211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunanajesse211&theme=default&hide_border=false)
+![yunanajesse211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunanajesse211&theme=default&hide_border=true)
 
 
 
