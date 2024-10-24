@@ -48,7 +48,7 @@ Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tb
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) </br>
 
-[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesse211)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
