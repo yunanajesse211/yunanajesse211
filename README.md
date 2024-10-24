@@ -46,11 +46,13 @@ Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tb
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+</br>
 
-[![Yunanajesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211)](https://github.com/anuraghazra/github-readme-stats)
+![yunanajesse211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunanajesse211&theme=cobalt&hide_border=false)
 
-
+![yunanajesse211's Stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 
 
 
