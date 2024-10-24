@@ -49,7 +49,7 @@ Available at: [RESUME](https://drive.google.com/file/d/1-jRhnL99j_EgCReKDBpJH7tb
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-![yunanajesse211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunanajesse211&theme=default&show_icons=true&hide_border=false&layout=compact)
+[![yunanajesse211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=yunanajesse211&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ![yunanajesse211's Stats](https://github-readme-stats.vercel.app/api?username=yunanajesse211&theme=default&show_icons=true&hide_border=false&count_private=true)
 
